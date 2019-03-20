@@ -19,6 +19,15 @@ Follow these instructions to get a dev environment up and running on your system
 2. In a terminal, go to the folder where the package.json is and run `npm install`.
 3. Then `DEBUG=myapp:* npm start` to run the server. 
 
+### Contributing
+- Branches 
+    - Master: Should always work. Code review before pushing to master. 
+    - Dev: The branch to work with. 
+- Workflow (We can change this later if it does not work out)
+    - Work from the dev branch. 
+    - Before committing to the dev branch do a pull request to get current info from the repro. 
+    - Push to dev if everything is good. Also make sure to document the part you did in the code.
+
 ### Additional Information
 - bin/www - Sets up the server.
 - public - any JS, css, images we need for the server.
