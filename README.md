@@ -45,7 +45,7 @@ Follow these instructions to get a dev environment up and running on your system
  - Mochajs doc https://mochajs.org/#getting-started.
 
 ### Built With 
-- Node - Dependency Management.
+- Node - JavaScript Runtime.
 - Express - Web Framework.
 - MongoDB - Database.
 - Mochajs - Testing framework.
